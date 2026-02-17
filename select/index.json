@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "HALF(Album ver.)",
+  "base_artist": "女王蜂",
+  "createdAt": "2026-02-17T12:55:53.760434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HALF(Album ver.)",
+      "artist": "QUEEN BEE",
+      "has_synced": false,
+      "path": "select/01_HALF(Album_ver.)_QUEEN_BEE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HALF (Album ver.)",
+      "artist": "QUEEN BEE",
+      "has_synced": false,
+      "path": "select/02_HALF_(Album_ver.)_QUEEN_BEE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HALF",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/pl_01_HALF_女王蜂.txt"
+    }
+  ]
+}
